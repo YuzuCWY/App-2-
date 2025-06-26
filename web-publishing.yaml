@@ -1,0 +1,10 @@
+webSettings:
+  PROD:
+    faviconPath: projects/bard-a-i-template-0ydq7u/assets/lhbrd32hsl15/ff_logo_small.png
+    subdomain: ai-chat-template-v2
+    showWatermark: false
+    ogImagePath: projects/bard-a-i-template-0ydq7u/assets/88x9u3m5z892/flutterflow.png
+    statusBarColor:
+      value: "4294046968"
+      darkModeColor:
+        value: "4280099880"

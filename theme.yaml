@@ -1,0 +1,207 @@
+loadingIndicatorStyle:
+  type: CIRCULAR
+  color:
+    themeColor: PRIMARY
+  diameter: 50
+customFonts:
+  - fontFamily: Product Sans
+    fontFileData:
+      - fontFilePath: projects/google-ed-tech-a-i-01ohov/assets/m7x9an4up703/Product Sans Bold Italic.ttf
+        weight: w700
+        italic: true
+      - fontFilePath: projects/google-ed-tech-a-i-01ohov/assets/ivmlwb57q9dn/Product Sans Bold.ttf
+        weight: w700
+        italic: false
+      - fontFilePath: projects/google-ed-tech-a-i-01ohov/assets/dioid4suj277/Product Sans Italic.ttf
+        weight: w400
+        italic: true
+      - fontFilePath: projects/google-ed-tech-a-i-01ohov/assets/bpm35hgdfkgg/Product Sans Regular.ttf
+        weight: w400
+        italic: false
+defaultTypography:
+  primaryFontFamily: Product Sans
+  secondaryFontFamily: Poppins
+  displaySmall:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineMedium:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  headlineSmall:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  titleMedium:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 18
+      mostRecentInputValue: 18
+    colorValue:
+      inputValue:
+        themeColor: INFO
+      mostRecentInputValue:
+        themeColor: INFO
+    fontWeightValue:
+      inputValue: w400
+  titleSmall:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: INFO
+      mostRecentInputValue:
+        themeColor: INFO
+    fontWeightValue:
+      inputValue: w500
+  bodyMedium:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  bodySmall:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  displayLarge:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 64
+      mostRecentInputValue: 64
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  displayMedium:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 44
+      mostRecentInputValue: 44
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  headlineLarge:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 32
+      mostRecentInputValue: 32
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleLarge:
+    fontFamily: Product Sans
+    fontSizeValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  labelMedium:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  labelSmall:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  bodyLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+breakPoints:
+  small: 479
+  medium: 767
+  large: 991

@@ -1,0 +1,15 @@
+splashImage:
+  path: projects/bard-a-i-template-0ydq7u/assets/9gk36hq5fvp1/Combined-Shape.png
+  fit: FF_BOX_FIT_COVER
+  dimensions:
+    width:
+      pixelsValue:
+        inputValue: 60
+        mostRecentInputValue: 60
+    height:
+      pixelsValue:
+        inputValue: 60
+        mostRecentInputValue: 60
+  backgroundColor:
+    value: "4280428080"
+androidAdaptiveIcon: {}

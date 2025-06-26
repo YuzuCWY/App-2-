@@ -1,0 +1,12 @@
+rootFolders:
+  - key: 6b0f3mxb
+    name: pages
+  - key: y0purewo
+    name: Components
+widgetClassKeyToFolderKey:
+  Scaffold_0cn2oj19: 6b0f3mxb
+  Scaffold_0e2lopen: 6b0f3mxb
+  Scaffold_0riast6w: 6b0f3mxb
+  Scaffold_cpdta924: 6b0f3mxb
+  Container_oyh91z58: y0purewo
+  Scaffold_lbkftbip: 6b0f3mxb

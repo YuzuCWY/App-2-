@@ -1,0 +1,19 @@
+name: Diary
+authPageInfo:
+  homePageNodeKeyRef:
+    key: Scaffold_0riast6w
+  signInPageNodeKeyRef:
+    key: Scaffold_cpdta924
+appSettings:
+  advancedSettings:
+    canvasKitSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_0riast6w
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.googleedtechai
+      displayName: FlutterFlowAI

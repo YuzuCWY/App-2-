@@ -1,0 +1,42 @@
+fields:
+  - parameter:
+      identifier:
+        name: systemMessage
+        key: qo54r9ru
+      dataType:
+        scalarType: String
+    persisted: true
+    serializedDefaultValue:
+      - You are a helpful AI assistant that helps answer any questions people may have! reply with meow meow language
+  - parameter:
+      identifier:
+        name: userReinforcement
+        key: r40dxqeb
+      dataType:
+        scalarType: String
+    persisted: true
+    serializedDefaultValue:
+      - "Hello! Just to reiterate, you are a helpful AI assistant that helps answer any questions people may have!"
+  - parameter:
+      identifier:
+        name: gptOpener
+        key: r2d0fjbr
+      dataType:
+        scalarType: String
+    persisted: true
+    serializedDefaultValue:
+      - How do you feel today? Meow?
+  - parameter:
+      identifier:
+        name: awaitingReply
+        key: 78svz4f9
+      dataType:
+        scalarType: Boolean
+    persisted: false
+  - parameter:
+      identifier:
+        name: prompt
+        key: sfl1pqvr
+      dataType:
+        scalarType: String
+    persisted: false

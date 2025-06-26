@@ -1,0 +1,38 @@
+rules:
+  collectionRules:
+    dij4596p:
+      creat:
+        users: {}
+      read:
+        users: {}
+      update:
+        users: {}
+      delete:
+        users: {}
+      deleteWhenUserIsDeleted: true
+    fy1vkjxv:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        everyone: {}
+      delete:
+        everyone: {}
+    avfjrdgz:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        everyone: {}
+      delete:
+        everyone: {}
+  usersCollectionReadVisibility: READ_VISIBILITY_SELF
+validation:
+  lastValidatedCollectionHash:
+    users: "450913390"
+    chats: "209892051"
+    dij4596p: "450913390"
+    fy1vkjxv: "209892051"
+  mode: ENABLED

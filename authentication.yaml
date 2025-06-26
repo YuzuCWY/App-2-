@@ -1,0 +1,37 @@
+active: true
+firebase:
+  createUserDocument:
+    collectionIdentifier:
+      name: users
+      key: dij4596p
+    write:
+      updates:
+        email:
+          fieldIdentifier:
+            name: email
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_qt5ful2z
+firebaseConfigFileInfos:
+  - androidPath: users/TbHRDhsO5sOJCTbt6F6BW9hoIuF3/projects/bard-a-i-template-0ydq7u/configs/59343ak2uzbv/google-services.json
+    iosPath: users/TbHRDhsO5sOJCTbt6F6BW9hoIuF3/projects/bard-a-i-template-0ydq7u/configs/wb6ytyy1yprh/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"educationai-4a07a\",\n  \"appId\": \"1:695230684172:web:8062f121a2ffddc1e6e229\",\n  \"storageBucket\": \"educationai-4a07a.appspot.com\",\n  \"locationId\": \"us-central\",\n  \"apiKey\": \"AIzaSyCxqK6ZQLc3HKtaZUZpePfcKtSd5uyUaak\",\n  \"authDomain\": \"educationai-4a07a.firebaseapp.com\",\n  \"messagingSenderId\": \"695230684172\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.googleedtechai
+    iosBundleId: com.mycompany.googleedtechai
+    environment:
+      name: Production
+      key: PROD
